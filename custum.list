@@ -1,0 +1,16 @@
+# pocketcast、中国数字时代、法广新闻用土豆云中的香港节点
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,acast.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,pdst.fm
+DOMAIN-SUFFIX,pocketcast.com
+DOMAIN-SUFFIX,chinadigitaltimes
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,bbc
+DOMAIN-KEYWORD,acast
+DOMAIN-KEYWORD,pdst
+DOMAIN-KEYWORD,pocketcast
+DOMAIN-KEYWORD,rfi
